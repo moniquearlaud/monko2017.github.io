@@ -31,15 +31,14 @@ html, body {
 	color: blue;
 	font-family: 'Clicker Script', cursive;
 }
+
 .header-cont {
 	width: 100%;
 	position: fixed;
 	top: 0px;
 }
 .main {
-	background-image: url("");
 	min-height: 400px;
-	
 	position: relative;
 
 }
@@ -50,7 +49,7 @@ html, body {
 	min-height: 400px;
 	width: 200px;
 	float: left;
-	bottom: 168px;
+	bottom: 100px;
 	right: 1166px;
 	
 }
