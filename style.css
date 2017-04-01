@@ -15,6 +15,7 @@ html, body {
 .container {
 	width: 95%;
 	margin: 10px auto;
+
 	
 
 }
@@ -28,6 +29,7 @@ html, body {
 	text-align:center;
 	font-size: 200%;
 	color: blue;
+	font-family: 'Clicker Script', cursive;
 }
 .header-cont {
 	width: 100%;
@@ -37,8 +39,9 @@ html, body {
 .main {
 	background-image: url("");
 	min-height: 400px;
-	overflow: hidden;
+	
 	position: relative;
+
 }
 
 .sidebar{	
@@ -79,6 +82,16 @@ a:hover {
 	background-color: dimgrey;
 
 }
+/*
+.profiel {
+	width: 130px;
+    height: 195px;
+	background:transparent url ("blackProfiel.jpg") no-repeat;
+	margin: 50px;
+}
+.profiel:hover {
+	background: url("kleurProfiel.jpg") no-repeat;
+} */
 
 img {
 	border: 4px solid grey;
