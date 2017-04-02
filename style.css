@@ -80,16 +80,6 @@ a:hover {
 	background-color: dimgrey;
 
 }
-/*
-.profiel {
-	width: 130px;
-    height: 195px;
-	background:transparent url ("blackProfiel.jpg") no-repeat;
-	margin: 50px;
-}
-.profiel:hover {
-	background: url("kleurProfiel.jpg") no-repeat;
-} */
 
 img {
 	border: 4px solid grey;
